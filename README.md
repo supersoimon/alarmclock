@@ -14,7 +14,7 @@ The CAD for this project is done on onshape. It has 3 shells, a bottom slip, and
 This project is coded in the Arduino IDE. An .ino file is attached. 
 
 # PCB
-The PCB for this project was designed in KiCAD. It uses 1.6mm FR4 from JLCPCB.
+The PCB for this project was designed in KiCAD. It uses 1.6mm FR4 from JLCPCB. <br>
 <img width="436" height="170" alt="Screenshot 2026-09-24 193313" src="https://github.com/user-attachments/assets/f6b161d3-10aa-426b-ae3b-6a6a5c63a5d4" />
 <img width="609" height="185" alt="Screenshot 2026-09-24 193305" src="https://github.com/user-attachments/assets/9693f4dd-bacf-4bc0-be63-224ac21ee55f" />
 
