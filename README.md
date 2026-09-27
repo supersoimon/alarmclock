@@ -19,3 +19,10 @@ The PCB for this project was designed in KiCAD. It uses 1.6mm FR4 from JLCPCB. <
 <img width="609" height="185" alt="Screenshot 2026-09-24 193305" src="https://github.com/user-attachments/assets/9693f4dd-bacf-4bc0-be63-224ac21ee55f" />
 
 # BOM
+| Item | Count | Cost (USD) | Notes |
+| :--- | :---: | :---: | :--- |
+| **BLARE Kit** | 1 | \$0.00 | Provided directly by Hack Club |
+| **PCB** | 1 | \$8.20 | Custom manufacturing via JLCPCB (upload Gerbers) |
+| **PCB Shipping** | 1 | \$7.36 | Variable estimate based on delivery location |
+| **3DP Parts** | 1 | \$0.00 | 3D-printed structural components |
+| **Total Project Cost** | | **\$15.56** | |
